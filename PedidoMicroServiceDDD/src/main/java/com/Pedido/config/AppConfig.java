@@ -1,4 +1,4 @@
-package com.infnetPb.mesaMicroService.config;
+package com.Pedido.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

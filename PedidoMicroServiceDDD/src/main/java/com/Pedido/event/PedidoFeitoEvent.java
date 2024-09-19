@@ -1,4 +1,4 @@
-package event;
+package com.Pedido.event;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
