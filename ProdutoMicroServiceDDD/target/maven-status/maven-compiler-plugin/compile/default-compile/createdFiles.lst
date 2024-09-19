@@ -1,0 +1,5 @@
+com\tp1Pedido\Controller\ProdutoController.class
+com\tp1Pedido\Tp1ProdutoApplication.class
+com\tp1Pedido\Model\Produto.class
+com\tp1Pedido\Repository\ProdutoRepository.class
+com\tp1Pedido\Service\ProdutoService.class
