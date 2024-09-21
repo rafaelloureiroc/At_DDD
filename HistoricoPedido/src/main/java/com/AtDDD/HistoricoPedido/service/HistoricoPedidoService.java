@@ -17,7 +17,7 @@ public class HistoricoPedidoService {
         return historicoPedidoRepository.findAll();
     }
 
-    public PedidoFeitoEvent salvarPedidoFeito(PedidoFeitoEvent pedidoFeitoEvent) {
-        return historicoPedidoRepository.save(pedidoFeitoEvent);
+    public void salvarPedidoFeito(PedidoFeitoEvent pedidoFeitoEvent) {
+        historicoPedidoRepository.save(pedidoFeitoEvent);
     }
 }

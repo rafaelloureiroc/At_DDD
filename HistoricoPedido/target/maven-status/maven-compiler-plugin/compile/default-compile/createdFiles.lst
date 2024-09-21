@@ -1,1 +1,7 @@
+com\AtDDD\HistoricoPedido\repository\HistoricoPedidoRepository.class
 com\AtDDD\HistoricoPedido\HistoricoPedidoApplication.class
+com\AtDDD\HistoricoPedido\service\HistoricoPedidoService.class
+com\AtDDD\HistoricoPedido\controller\HistoricoPedidoController.class
+com\AtDDD\HistoricoPedido\listener\PedidoFeitoListener.class
+com\AtDDD\HistoricoPedido\config\RabbitMqConfig.class
+com\AtDDD\HistoricoPedido\event\PedidoFeitoEvent.class
